@@ -5,6 +5,7 @@ public class prueba {
   //prueba
   public static void main(String args[]){
     System.out.println("asdgfasdf");
+    System.out.println("1234");
   }
 
 }
